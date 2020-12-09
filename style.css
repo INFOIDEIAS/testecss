@@ -1,0 +1,21 @@
+/*Escreva aqui a sua estilização*/
+
+/*Header*/
+
+.menu-navigation .navbar-nav>li>a { /*fonte dos itens menu*/
+    font-size: 14px !important;
+    font-family: sans-serif;
+}
+
+/*Busca*/
+
+
+/*Footer*/
+
+
+/*Mobile*/
+@media (max-width: 767px){
+    #lias_130 .logo .header-img img, .lias_130 .logo .header-img img {
+        width: 200px; /*diminuir logo no mobile*/
+    }
+}
